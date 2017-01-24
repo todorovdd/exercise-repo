@@ -1,5 +1,2 @@
-
-
-
-Another Content . . . 
-Added Content and commited with GitBash
+Updating with Bash. . .
+Update with Tortoise. . .
